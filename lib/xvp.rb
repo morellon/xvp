@@ -1,3 +1,7 @@
+# -*- coding: UTF-8 -*-
+require "openssl"
+require "xvp/encryption"
+require "xvp/version"
+
 module Xvp
-  # Your code goes here...
 end

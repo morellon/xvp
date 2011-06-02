@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "xvp"
   s.version     = Xvp::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.authors     = ["Thiago Morello"]
+  s.email       = ["morellon@gmail.com"]
+  s.homepage    = "https://github.com/morellon/xvp"
+  s.summary     = %q{XVP password encryption for ruby}
+  s.description = %q{XVP password encryption for ruby}
 
   s.rubyforge_project = "xvp"
 
